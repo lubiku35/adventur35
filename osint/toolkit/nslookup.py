@@ -5,13 +5,9 @@
 """
 import os
 
-# COMMANDS
-
-
 def main():
     ip = input("Provide IP / Domain: ")
     out(ip=ip)
-
 
 def nslookup(ip):
     # COMMANDS
